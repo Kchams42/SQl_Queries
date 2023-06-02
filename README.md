@@ -2,7 +2,7 @@
 I have been working on improving my SQL knowledge.  Here are a few of my most recent queries
 
 
-This firt query is using the Austin Bikeshare dataset in BigQuery.  The goal is to find the station where the lingest bikeshare ride started:
+This first query is using the Austin Bikeshare dataset in BigQuery.  The goal is to find the station where the longest bikeshare ride started:
 
 WITH longest_used_bike AS (
     SELECT
